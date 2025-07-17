@@ -1,7 +1,7 @@
 # Linear-Regression
 ### Linear Regression
 
-A simple implementation of linear regression using Python — built entirely from scratch without using machine learning libraries. This project demonstrates the core concepts of linear regression, including:
+A simple implementation of linear regression using Python that is built entirely from scratch without using machine learning libraries. This project demonstrates the core concepts of linear regression, including:
 
 * Reading and processing CSV data
 * Implementing the least squares method
